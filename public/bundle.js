@@ -93,7 +93,11 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-console.log("oi");
+var soma = function soma(a, b) {
+  return a + b;
+};
+
+alert(soma(1, 3));
 
 /***/ })
 
