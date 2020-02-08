@@ -1,0 +1,22 @@
+{
+  "name": "bootcamp-gostack-introducao-ao-reactjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrsants/bootcamp-gostack-introducao-ao-reactjs.git"
+  },
+  "author": "Marcelo Batista",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrsants/bootcamp-gostack-introducao-ao-reactjs/issues"
+  },
+  "homepage": "https://github.com/mrsants/bootcamp-gostack-introducao-ao-reactjs#readme"
+}
