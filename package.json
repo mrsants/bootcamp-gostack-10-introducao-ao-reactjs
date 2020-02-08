@@ -17,7 +17,8 @@
     "webpack-dev-server": "^3.10.3"
   },
   "scripts": {
-    "build": "webpack --mode development",
+    "build:prod": "webpack",
+    "build:dev": "webpack --mode development",
     "dev": "webpack-dev-server --mode development",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
